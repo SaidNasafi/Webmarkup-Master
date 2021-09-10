@@ -1,0 +1,3 @@
+student name: Said Nasafi
+student number: 687820
+student class: inf1b
